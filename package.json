@@ -11,6 +11,10 @@
     "mem",
     "memes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lotarbo/console-memes.git"
+  },
   "author": "Bogdan Lotarev <bogdanlotar@gmail.com>",
   "license": "MIT"
 }
