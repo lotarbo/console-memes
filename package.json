@@ -1,6 +1,6 @@
 {
   "name": "console-memes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom Console Logging with Memes.",
   "main": "console.memes.js",
    "keywords": [

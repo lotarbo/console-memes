@@ -5,7 +5,7 @@ const memes = [
     {mem: '┬─┬ノ( º _ ºノ)', name: 'ok'},
     {mem: '¯\\_(ツ)_/¯', name: 'hah'},
     {mem: '╯°□°）╯︵(\\ .o.)\\', name: 'sparta'},
-    {mem: '┬─┬﻿ ︵ /(.□. \\', name: 'soviet'},
+    {mem: '┬─┬﻿ ︵ /(.□. \\）', name: 'soviet'},
     {mem: 'ಠ_ಠ', name: 'wtf'},
 ]
 
