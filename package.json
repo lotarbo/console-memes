@@ -1,0 +1,16 @@
+{
+  "name": "console-memes",
+  "version": "1.0.0",
+  "description": "Custom Console Logging with Memes.",
+  "main": "console.memes.js",
+   "keywords": [
+    "console",
+    "console.log",
+    "console-mem",
+    "console-memes",
+    "mem",
+    "memes"
+  ],
+  "author": "Bogdan Lotarev <bogdanlotar@gmail.com>",
+  "license": "MIT"
+}
