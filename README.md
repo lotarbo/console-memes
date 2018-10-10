@@ -57,7 +57,7 @@ console.sparta() //This Is Spaaarta!
 console.soviet() //In Soviet Russia, table flips you
 //┬─┬﻿ ︵ /(.□. \）
 
-console.soviet() //wtf
+console.wtf() //wtf
 //ಠ_ಠ
 ```
 
